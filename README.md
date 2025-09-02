@@ -23,13 +23,19 @@
 - Google Cloudのリソースを別プロジェクトにダウンタイムなしで移行
 - Google CloudのOrgを跨いだプロジェクト移行
 - Pythonを用いた0からAPIサーバーの構築
+- Dataflowを用いた大規模データ処理の構築
+- PAMを用いたGoogle Cloudプロジェクトのセキュアな環境構築
+- SendGridを用いたメール送信機構の構築
+- 社内コンプライアンス事情を網羅的に把握しセキュリティアセスメントへの回答及び環境のブラッシュアップ（データマスキング処理の実装等）
+- Cloud Functions V1からCloud Runへのバックエンドサーバー移管
 
-使用技術：Next.js, React, Typescript, NestJS, Hono, Google Cloud, Python, Go
+使用技術：Next.js, React, Typescript, NestJS, Hono, Google Cloud, Python, Go, Terraform
 
 ◾️ 組織開発
 - 勉強会の運営
-- 組織向けのRAGサービスの開発
 - Github Copilotのナレッジ集約・tips共有
+- ADKを用いた社内ドキュメント検索AIエージェントの構築を起案し実装
+- n8nを用いた組織関連のニュース要約アプリ（Gemini）を起案し実装
 
 ## スキル
 ### 技術スタック
@@ -38,6 +44,7 @@
 - Vue, Nuxt
 - NestJS, Hono
 - Google Cloud
+- Terraform
 - Python
 - Go
 
